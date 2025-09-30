@@ -149,6 +149,7 @@ A função ler é responsável por emitir um pulso ultrassônico, medir o tempo 
 - ```delay(ms)```: Pausa a execução do programa pelo número especificado de milissegundos.
 
 ## Colaborador
-Valdemar Gonçalves Pereira Neto
+Valdemar Gonçalves Pereira Neto - Engenharia Mecatrônica
+
 
 
