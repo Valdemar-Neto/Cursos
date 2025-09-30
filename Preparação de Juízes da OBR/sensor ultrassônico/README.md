@@ -148,4 +148,7 @@ A função ler é responsável por emitir um pulso ultrassônico, medir o tempo 
 - ```Serial.println(value)```: Imprime um valor na porta serial, seguido de uma nova linha.
 - ```delay(ms)```: Pausa a execução do programa pelo número especificado de milissegundos.
 
+## Colaborador
+Valdemar Gonçalves Pereira Neto
+
 
